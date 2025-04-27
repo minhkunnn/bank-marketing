@@ -1,6 +1,6 @@
 # Bank Marketing Classification
 
-For Data Visualization and Detailed Results, please[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V-YFtEfigOWk08sA4hsFhLdKDoOJYCXO?usp=sharing)
+For Data Visualization and Detailed Results, please [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1V-YFtEfigOWk08sA4hsFhLdKDoOJYCXO?usp=sharing)
 
 ## Overview
 
