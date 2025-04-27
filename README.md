@@ -78,4 +78,4 @@ This project utilizes the following main Python libraries:
 * **ExtraTreesClassifier (from sklearn.ensemble):** For assessing feature importance.
 
 ## Contact Information
-[GitHub](https://github.com/minhkunnn)
+[LinkedIn](https://www.linkedin.com/in/tran-binh-minh-0848ba225/)
