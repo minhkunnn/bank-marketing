@@ -21,7 +21,7 @@ This project showcases proficiency in the following key skills:
 
 ## Dataset
 
-The dataset used in this project is the **Bank Marketing Data Set** available from the UCI Machine Learning Repository. **Source:** [![UCI ML REPO](https://colab.research.google.com/assets/colab-badge.svg)](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+The dataset used in this project is the **Bank Marketing Data Set** available from the UCI Machine Learning Repository. **Source:** [UCI ML REPO](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
 ## Methodology
 
@@ -78,5 +78,4 @@ This project utilizes the following main Python libraries:
 * **ExtraTreesClassifier (from sklearn.ensemble):** For assessing feature importance.
 
 ## Contact Information
-
-[![GitHub](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/minhkunnn)
+[GitHub](https://github.com/minhkunnn)
